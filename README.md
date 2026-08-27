@@ -1,4 +1,4 @@
-# Data Analytics Internship
+# Data Analytics 
 
 This repository contains my weekly deliverables for the Data Analytics Internship Program.
 
