@@ -7,7 +7,7 @@ This repository contains my weekly deliverables for the Data Analytics Internshi
 | Week | Task | Link |
 |------|------|------|
 | Week 1 | Data Cleaning and Preliminary Analysis with R | [View](./Week1) |
-| Week 2 | (To be added) | [View](./Week2) |
+| Week 2 | Data Visualization and Insight Communication using R | [View](./Week2) |
 | Week 3 | (To be added) | [View](./Week3) |
 | Week 4 | (To be added) | [View](./Week4) |
 
